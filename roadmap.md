@@ -1,0 +1,3 @@
+- [x] Build the frontend-only Drill-IQ dashboard with synthetic well, telemetry, risk, and document data.
+- [x] Connect navigation, map, offset details, search, comparison, assistant, and simulation interactions.
+- [ ] Verify desktop and mobile rendering and the live simulation flow.

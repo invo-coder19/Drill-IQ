@@ -1,0 +1,2 @@
+- Keep Drill-IQ as a frontend-only single-route control workspace with local synthetic fixtures and client-side view state; this prevents the demo from implying a real data connection.
+- Dynamically load Leaflet only in the browser; the app uses server-side rendering and Leaflet accesses browser globals.
